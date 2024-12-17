@@ -1,4 +1,4 @@
 # my_demo
 this is my repo
 <br>
-Author - sandeep Devra
+Author - sandeep (sandy)
